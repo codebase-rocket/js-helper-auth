@@ -1,0 +1,99 @@
+{
+  "resource": "/test",
+  "path": "/test",
+  "httpMethod": "GET",
+  "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Authorization": "Bearer 0000000000-jQdNST9E2b3D9g2vcNft-a29HgKNUwfDeJyGYq4SJqdSXJsqcFK93beXaSWUy",
+      "Cache-Control": "no-cache",
+      "header_key1": "somevalue",
+      "Host": "api.example.com",
+      "User-Agent": "PostmanRuntime/7.19.0",
+      "X-Amzn-Trace-Id": "Root=1-5dda6a02-497543e03c3daaa8e5f06ed8",
+      "X-Forwarded-For": "119.82.86.225",
+      "X-Forwarded-Port": "443",
+      "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+      "Accept": [
+          "*/*"
+      ],
+      "Accept-Encoding": [
+          "gzip, deflate"
+      ],
+      "Authorization": [
+          "Bearer 0000000000-jQdNST9E2b3D9g2vcNft-a29HgKNUwfDeJyGYq4SJqdSXJsqcFK93beXaSWUy"
+      ],
+      "Cache-Control": [
+          "no-cache"
+      ],
+      "header_key1": [
+          "somevalue"
+      ],
+      "Host": [
+          "api.example.com"
+      ],
+      "User-Agent": [
+          "PostmanRuntime/7.19.0"
+      ],
+      "X-Amzn-Trace-Id": [
+          "Root=1-5dda6a02-497543e03c3daaa8e5f06ed8"
+      ],
+      "X-Forwarded-For": [
+          "119.82.86.225"
+      ],
+      "X-Forwarded-Port": [
+          "443"
+      ],
+      "X-Forwarded-Proto": [
+          "https"
+      ]
+  },
+  "queryStringParameters": {
+      "get_key1": "value1",
+      "get_key2": "value2"
+  },
+  "multiValueQueryStringParameters": {
+      "get_key1": [
+          "value1"
+      ],
+      "get_key2": [
+          "value2"
+      ]
+  },
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+      "resourceId": "l0qfyp",
+      "resourcePath": "/test",
+      "httpMethod": "GET",
+      "extendedRequestId": "DqWAWFbZIAMF_yQ=",
+      "requestTime": "24/Nov/2019:11:31:14 +0000",
+      "path": "/test",
+      "accountId": "218032107964",
+      "protocol": "HTTP/1.1",
+      "stage": "prod",
+      "domainPrefix": "api",
+      "requestTimeEpoch": 1574595074191,
+      "requestId": "79edf60f-4474-43af-9614-ff0caeb02770",
+      "identity": {
+          "cognitoIdentityPoolId": null,
+          "accountId": null,
+          "cognitoIdentityId": null,
+          "caller": null,
+          "sourceIp": "119.82.86.225",
+          "principalOrgId": null,
+          "accessKey": null,
+          "cognitoAuthenticationType": null,
+          "cognitoAuthenticationProvider": null,
+          "userArn": null,
+          "userAgent": "PostmanRuntime/7.19.0",
+          "user": null
+      },
+      "domainName": "api.example.com",
+      "apiId": "nene49yad5"
+  },
+  "body": null,
+  "isBase64Encoded": false
+}
